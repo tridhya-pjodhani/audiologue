@@ -24,6 +24,7 @@ export default function RootLayout({
           href="/logos/AUDIOLOGUE.svg"
           type="image/x-icon"
         /> */}
+        <meta name="google-site-verification" content="3DZl-tQCtp_dyApxJuTm_iLsZPZ2KyxUmK0NOQCnDsY" />
       </head>
       <body>
         <ArticleContextProvider>
